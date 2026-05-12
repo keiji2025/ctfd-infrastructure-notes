@@ -1,0 +1,2 @@
+# ctfd-infrastructure-notes
+Azure上でのCTFd構築と、学内CTFイベントにおけるオンプレミスサーバー運用の記録
